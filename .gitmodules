@@ -7,3 +7,6 @@
 [submodule "Pod-1/Pod-1/nku-visual-test"]
 	path = Pod-1/Pod-1/nku-visual-test
 	url = git@github.com:mherring11/nku-visual-test.git
+[submodule "Pod-2/Pod-2/playwright-se"]
+	path = Pod-2/Pod-2/playwright-se
+	url = git@github.com:mherring11/playwright-se.git
