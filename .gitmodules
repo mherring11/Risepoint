@@ -1,0 +1,9 @@
+[submodule "Pod-1/nku-visual-test"]
+	path = Pod-1/nku-visual-test
+	url = git@github.com:mherring11/nku-visual-test.git
+[submodule "Pod-1/Pod-1/playwright-nwmissouri"]
+	path = Pod-1/Pod-1/playwright-nwmissouri
+	url = git@github.com:mherring11/playwright-nwmissouri.git
+[submodule "Pod-1/Pod-1/nku-visual-test"]
+	path = Pod-1/Pod-1/nku-visual-test
+	url = git@github.com:mherring11/nku-visual-test.git
