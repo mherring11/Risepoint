@@ -10,3 +10,6 @@
 [submodule "Pod-2/Pod-2/playwright-se"]
 	path = Pod-2/Pod-2/playwright-se
 	url = git@github.com:mherring11/playwright-se.git
+[submodule "Pod-2/playwright-se"]
+	path = Pod-2/playwright-se
+	url = git@github.com:mherring11/playwright-se.git
