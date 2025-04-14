@@ -97,3 +97,24 @@
 [submodule "Pod-6/playwright-worcester"]
 	path = Pod-6/playwright-worcester
 	url = git@github.com:mherring11/playwright-worcester.git
+[submodule "Pod-7/playwright-ewu"]
+	path = Pod-7/playwright-ewu
+	url = git@github.com:mherring11/playwright-ewu.git
+[submodule "Pod-7/playwright-stu"]
+	path = Pod-7/playwright-stu
+	url = git@github.com:mherring11/playwright-stu.git
+[submodule "Pod-7/playwright-usi"]
+	path = Pod-7/playwright-usi
+	url = git@github.com:ayoungchl/playwright-usi.git
+[submodule "Pod-7/playwright-uwp"]
+	path = Pod-7/playwright-uwp
+	url = git@github.com:ayoungchl/playwright-uwp.git
+[submodule "Pod-8/playwright-bgsu"]
+	path = Pod-8/playwright-bgsu
+	url = git@github.com:mherring11/playwright-bgsu.git
+[submodule "Pod-8/playwright-etsu"]
+	path = Pod-8/playwright-etsu
+	url = git@github.com:mherring11/playwright-etsu.git
+[submodule "Pod-8/playwright-fgcu"]
+	path = Pod-8/playwright-fgcu
+	url = git@github.com:mherring11/playwright-fgcu.git
