@@ -13,3 +13,18 @@
 [submodule "Pod-2/playwright-se"]
 	path = Pod-2/playwright-se
 	url = git@github.com:mherring11/playwright-se.git
+[submodule "Pod-1/playwright-barry"]
+	path = Pod-1/playwright-barry
+	url = git@github.com:mherring11/playwright-barry.git
+[submodule "Pod-1/playwright-henderson"]
+	path = Pod-1/playwright-henderson
+	url = git@github.com:mherring11/playwright-henderson.git
+[submodule "Pod-2/playwright-emporia"]
+	path = Pod-2/playwright-emporia
+	url = git@github.com:mherring11/playwright-emporia.git
+[submodule "Pod-2/playwright-pittstate"]
+	path = Pod-2/playwright-pittstate
+	url = git@github.com:mherring11/playwright-pittstate.git
+[submodule "Pod-2/playwright-tamiu"]
+	path = Pod-2/playwright-tamiu
+	url = git@github.com:mherring11/playwright-tamiu.git
