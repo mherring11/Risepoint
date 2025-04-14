@@ -28,3 +28,72 @@
 [submodule "Pod-2/playwright-tamiu"]
 	path = Pod-2/playwright-tamiu
 	url = git@github.com:mherring11/playwright-tamiu.git
+[submodule "Pod-3/playwright-avila"]
+	path = Pod-3/playwright-avila
+	url = git@github.com:mherring11/playwright-avila.git
+[submodule "Pod-3/playwright-wpunj"]
+	path = Pod-3/playwright-wpunj
+	url = git@github.com:mherring11/playwright-wpunj.git
+[submodule "Pod-3/playwright-uis"]
+	path = Pod-3/playwright-uis
+	url = git@github.com:mherring11/playwright-uis.git
+[submodule "Pod-3/playwright-ysu"]
+	path = Pod-3/playwright-ysu
+	url = git@github.com:mherring11/playwright-ysu.git
+[submodule "Pod-3/playwright-txst"]
+	path = Pod-3/playwright-txst
+	url = git@github.com:mherring11/playwright-txst.git
+[submodule "Pod-4/astate/playwright-astate1"]
+	path = Pod-4/astate/playwright-astate1
+	url = git@github.com:mherring11/playwright-astate1.git
+[submodule "Pod-4/astate/playwright-astate2"]
+	path = Pod-4/astate/playwright-astate2
+	url = git@github.com:mherring11/playwright-astate2.git
+[submodule "Pod-4/astate/playwright-astate3"]
+	path = Pod-4/astate/playwright-astate3
+	url = git@github.com:mherring11/playwright-astate3.git
+[submodule "Pod-4/astate/playwright-astate4"]
+	path = Pod-4/astate/playwright-astate4
+	url = git@github.com:mherring11/playwright-astate4.git
+[submodule "Pod-4/lamar/playwright-lamar1"]
+	path = Pod-4/lamar/playwright-lamar1
+	url = git@github.com:mherring11/playwright-lamar.git
+[submodule "Pod-4/lamar/playwright-lamar2"]
+	path = Pod-4/lamar/playwright-lamar2
+	url = git@github.com:mherring11/playwright-lamar2.git
+[submodule "Pod-4/lamar/playwright-lamar3"]
+	path = Pod-4/lamar/playwright-lamar3
+	url = git@github.com:mherring11/playwright-lamar3.git
+[submodule "Pod-4/lamar/playwright-lamar4"]
+	path = Pod-4/lamar/playwright-lamar4
+	url = git@github.com:mherring11/playwright-lamar4.git
+[submodule "Pod-4/playwright-sheridan"]
+	path = Pod-4/playwright-sheridan
+	url = git@github.com:mherring11/playwright-sheridan.git
+[submodule "Pod-4/playwright-fit"]
+	path = Pod-4/playwright-fit
+	url = git@github.com:mherring11/playwright-fit.git
+[submodule "Pod-4/playwright-norfolk"]
+	path = Pod-4/playwright-norfolk
+	url = git@github.com:mherring11/playwright-norfolk.git
+[submodule "Pod-4/playwright-umhb"]
+	path = Pod-4/playwright-umhb
+	url = git@github.com:mherring11/playwright-umhb.git
+[submodule "Pod-5/playwright-lasalle"]
+	path = Pod-5/playwright-lasalle
+	url = git@github.com:mherring11/playwright-lasalle.git
+[submodule "Pod-5/playwright-siue"]
+	path = Pod-5/playwright-siue
+	url = git@github.com:mherring11/playwright-siue.git
+[submodule "Pod-5/playwright-southernutah"]
+	path = Pod-5/playwright-southernutah
+	url = git@github.com:mherring11/playwright-southernutah.git
+[submodule "Pod-6/playwright-umsv"]
+	path = Pod-6/playwright-umsv
+	url = git@github.com:mherring11/playwright-umsv.git
+[submodule "Pod-6/playwright-radford"]
+	path = Pod-6/playwright-radford
+	url = git@github.com:ayoungchl/playwright-radford.git
+[submodule "Pod-6/playwright-worcester"]
+	path = Pod-6/playwright-worcester
+	url = git@github.com:mherring11/playwright-worcester.git
