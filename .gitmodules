@@ -118,3 +118,30 @@
 [submodule "Pod-8/playwright-fgcu"]
 	path = Pod-8/playwright-fgcu
 	url = git@github.com:mherring11/playwright-fgcu.git
+[submodule "Pod-1/playwright-nwmissouri"]
+	path = Pod-1/playwright-nwmissouri
+	url = git@github.com:mherring11/playwright-nwmissouri.git
+[submodule "Pod-4/lamar/playwright-lamar"]
+	path = Pod-4/lamar/playwright-lamar
+	url = git@github.com:mherring11/playwright-lamar.git
+[submodule "Pod-9/playwright-uttyler"]
+	path = Pod-9/playwright-uttyler
+	url = git@github.com:mherring11/playwright-uttyler.git
+[submodule "Pod-9/playwright-jamestown"]
+	path = Pod-9/playwright-jamestown
+	url = git@github.com:mherring11/playwright-jamestown.git
+[submodule "Pod-9/playwright-uncw"]
+	path = Pod-9/playwright-uncw
+	url = git@github.com:mherring11/playwright-uncw.git
+[submodule "Pod-9/playwright-carleton"]
+	path = Pod-9/playwright-carleton
+	url = git@github.com:mherring11/playwright-carleton.git
+[submodule "Pod-9/playwright-usca"]
+	path = Pod-9/playwright-usca
+	url = git@github.com:mherring11/playwright-usca.git
+[submodule "Pod-10/playwright-uta"]
+	path = Pod-10/playwright-uta
+	url = git@github.com:ayoungchl/playwright-uta.git
+[submodule "Pod-10/playwright-sou"]
+	path = Pod-10/playwright-sou
+	url = git@github.com:ayoungchl/playwright-sou.git
