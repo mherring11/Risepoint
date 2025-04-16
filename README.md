@@ -1,10 +1,10 @@
-# 🎯 Risepoint Playwright Automation Suite
+# Risepoint Playwright Automation Suite
 
 This repository contains automated tests for visual regression, UI validation, broken image detection, and menu verification across multiple university websites. Tests are built using **[Playwright](https://playwright.dev/)** and organized into pods for modularity and team collaboration.
 
 ---
 
-## 📁 Repository Structure
+## Repository Structure
 
 ```
 risepoint/
@@ -26,7 +26,7 @@ Each `Pod-*` folder contains one or more Playwright submodules for a university 
 
 ---
 
-## 🧰 Prerequisites
+## Prerequisites
 
 Before running any tests, ensure the following tools are installed globally:
 
@@ -35,7 +35,7 @@ Before running any tests, ensure the following tools are installed globally:
 
 ---
 
-## 🛠️ First-Time Setup
+## First-Time Setup
 
 Clone the repository and install all dependencies:
 
@@ -50,7 +50,7 @@ This will install all necessary testing and image comparison libraries.
 
 ---
 
-## 📦 Key Dependencies
+## Key Dependencies
 
 Installed during setup:
 
@@ -63,7 +63,7 @@ Installed during setup:
 
 ---
 
-## 🚀 Running Tests
+## Running Tests
 
 ### 1. Navigate to the test pod and submodule
 
@@ -91,13 +91,13 @@ npx playwright test tests/visualTest.spec.js -g "Verify Online Programs and Gett
 
 ---
 
-## 🖼️ Screenshots & Visual Regression
+## Screenshots & Visual Regression
 
 Screenshots for visual comparisons are stored inside the `screenshots/` directory of each submodule. The test script compares staging vs. production images and logs the results.
 
 ---
 
-## 🔍 Test Coverage Overview
+## Test Coverage Overview
 
 - ✅ Broken image detection
 - ✅ Menu and submenu validation
@@ -106,7 +106,7 @@ Screenshots for visual comparisons are stored inside the `screenshots/` director
 
 ---
 
-## 🧪 Customization
+## Customization
 
 Each submodule has its own `config.js` to define:
 
@@ -118,7 +118,7 @@ Update the `config.js` if you need to test additional pages or domains.
 
 ---
 
-## 🧯 Troubleshooting
+## Troubleshooting
 
 - Ensure you’re in the correct working directory before running tests
 - Reinstall dependencies if errors occur:  
@@ -133,7 +133,7 @@ Update the `config.js` if you need to test additional pages or domains.
 
 ---
 
-## 🤝 Collaboration
+## Collaboration
 
 If you're contributing to a specific university’s scripts, work inside the appropriate `Pod-*` folder and commit changes only to that submodule.
 
