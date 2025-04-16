@@ -138,12 +138,3 @@ Update the `config.js` if you need to test additional pages or domains.
 If you're contributing to a specific university’s scripts, work inside the appropriate `Pod-*` folder and commit changes only to that submodule.
 
 ---
-
-## 📬 Questions?
-
-Contact:  
-**Michael Herring**  
-📧 m.herring11@yahoo.com  
-📞 (210) 284-1082
-
----
